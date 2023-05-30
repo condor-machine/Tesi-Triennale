@@ -6,6 +6,9 @@ Questa repository contiene due file, uno è il file pdf che comprende tutte le p
 - Una fase di sentiment analysis
 - Un'ultima parte relativa alla classificazione delle recensioni, in base alla valutazione (da 1 a 5) data dagli utenti, sfruttando modelli di machine learning basati sugli alberi
 
+
+----------------------------------------------------------------------------------------------------------------------------
+
 # Bachelor-Degree-Thesis
 This repository contains two files, one is the pdf file that includes all parts of the thesis, and the other is the file in R Markdown that is used to generate the pdf. The thesis, which concerns the text mining of Italian reviews on TripAdvisor, can be summarized in the following phases:
 
